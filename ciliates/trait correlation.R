@@ -1,4 +1,4 @@
-Root_Path <- 'C:/zhao088/Desk20210304/Manuscript.eco-evo/Mark tessa/github Oct12/ciliates'
+Root_Path <- 'C:/zhao088/Desk20210304/Manuscript.eco-evo/ciliates'
 OPath <- paste(Root_Path,sep='')
 setwd(OPath)
 
